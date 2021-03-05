@@ -4,8 +4,8 @@ from log import logger
 import panel as pn
 from bokeh.resources import INLINE
 from css import CSS
-from bokeh.layouts import gridplot
-# from bokeh.embed import components
+# from bokeh.layouts import gridplot
+from bokeh.embed import components
 
 def launch_grid():
     pn.extension(raw_css=[CSS])
@@ -39,9 +39,6 @@ def launch_grid():
     # gspec.servable({'localhost:5006'})
     # return gspec
     # doc.add_root(gridplot(gspec))
-
-def main():
-    launch_grid()
 
 # if __name__ == "__main__":
 #     main()
