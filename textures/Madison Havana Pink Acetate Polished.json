@@ -1,0 +1,15 @@
+{
+  "path" : "Havana Pink.jpg",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 1.86,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.079,
+  "base_alpha" : 0.185,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.142,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

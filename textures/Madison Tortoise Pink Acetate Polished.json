@@ -1,0 +1,15 @@
+{
+  "path" : "UQ-0405_pink.pvr",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 1,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.013,
+  "base_alpha" : 0.588,
+  "luminance_coefficients" : 4,
+  "reflection_intensity" : 1.318,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

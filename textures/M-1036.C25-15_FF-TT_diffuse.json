@@ -1,0 +1,12 @@
+{
+    "path": "M-1036.C25-15_FF-TT_diffuse.png",
+	"hex": "",
+	"base_alpha" : 0.472,
+ 	"mask_for_luminance" : 1,
+	"metalness" : 0.1,
+ 	"reflection_intensity" : 0.728,
+	"roughness" : 0.00,
+ 	"surface_alpha" : 1,
+ 	"transparencyMode" : "dualLayer",
+    "white_point" : 0.202
+}

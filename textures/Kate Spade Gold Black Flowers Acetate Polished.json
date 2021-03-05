@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.14,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.75,
+  "hex" : "",
+  "luminance_coefficients" : 4,
+  "mask_for_luminance" : 1,
+  "metalness" : 0.354,
+  "path" : "Kate Spade Gold Black Flower.jpg",
+  "reflection_intensity" : 0.65,
+  "roughness" : 0,
+  "surface_alpha" : 1,
+  "transparency_mode" : "aOne",
+  "white_point" : 0.03
+}

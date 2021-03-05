@@ -1,0 +1,12 @@
+{
+    "path": "M-4015.12_TT_diffuse.png",
+    "hex": "",
+    "base_alpha": 0.3,
+    "mask_for_luminance": 1,
+    "metalness": 0,
+    "reflection_intensity": 1,
+    "roughness": 0,
+    "surface_alpha": 1,
+    "white_point": 0.025,
+    "transparency_mode": "dualLayer"
+}

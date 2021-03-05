@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.001,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.095,
+  "hex" : "",
+  "luminance_coefficients" : 1,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "Hugo Boss - BOSS-0966 (2W8) - M20420_Grey_Horn.jpg",
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "surface_alpha" : 1,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.006
+}

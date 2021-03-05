@@ -1,0 +1,15 @@
+{
+  "path": "ELEUNG-NEW CLASSICS 2-SL-ELBLA-3021.pvr",
+  "hex": "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 1.1,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.009,
+  "base_alpha" : 0.96,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0.1,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

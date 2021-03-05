@@ -1,0 +1,12 @@
+{
+	"path": "Jimmy Choo - Texture_cavallino_n.7.jpg",
+	"hex": "",
+	"diffuse_intensity" : 1.5,
+    "surface_alpha": 1,
+    "reflection_intensity": 1,
+    "mask_for_luminance": 0.0,
+    "luminance_offset": 0.0,
+	"metalness": 0.2,
+	"roughness": 0.0,
+	"transparencyMode": "aOne"
+}

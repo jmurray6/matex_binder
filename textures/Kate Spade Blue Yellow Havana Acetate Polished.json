@@ -1,0 +1,15 @@
+{
+  "path" : "UF2-0093_front.jpg",
+  "hex" : "",
+  "surface_alpha" : 0.997,
+  "diffuse_intensity" : 1.056,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.18,
+  "base_alpha" : 0.398,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.529,
+  "roughness" : 0.093,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

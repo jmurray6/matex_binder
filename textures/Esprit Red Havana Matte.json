@@ -1,0 +1,15 @@
+{
+  "path" : "ELEUNG-Red Havana.jpg",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 2.5,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.144,
+  "base_alpha" : 0.175,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.41,
+  "roughness" : 0.25,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.169
+}

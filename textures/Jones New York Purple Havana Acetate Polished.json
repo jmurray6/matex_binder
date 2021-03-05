@@ -1,0 +1,15 @@
+{
+  "path" : "Purple Havana.jpg",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.45,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.109,
+  "base_alpha" : 0.001,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.963,
+  "roughness" : 0.113,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

@@ -1,0 +1,12 @@
+{
+	"path": "FOAM black.jpg",
+	"hex": "",
+  "diffuse_intensity": 1.75,
+  "surface_alpha": 1,
+  "reflection_intensity": 1,
+  "mask_for_luminance": 0.0,
+  "luminance_offset": 0.0,
+	"metalness": 0.0,
+	"roughness": 0.15,
+	"transparencyMode": "aOne"
+}

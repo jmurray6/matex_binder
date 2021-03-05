@@ -1,0 +1,63 @@
+<data>
+  <model source = "" />
+  <asset 
+  source = "frameFront_GG0396O"
+  material = "Gucci Gold Metal Polished"
+  shader = "hinge"
+  entity = "frame"
+  />
+  <asset 
+  source = "hardwareScrews_GG0396O"
+  material = "Gucci Gold Metal Polished"
+  shader = "hinge"
+  entity = "frame"
+  />
+  <asset 
+  source = "lensesFront_GG0396O"
+  material = "tint001"
+  shader = "lens"
+  entity = "lens"
+  />
+  <asset 
+  source = "lensesRear_GG0396O"
+  material = "tint001"
+  shader = "lens"
+  entity = "lens"
+  />
+  <asset 
+  source = "nosepadArms_GG0396O"
+  material = "Gucci Gold Metal Polished"
+  shader = "hinge"
+  entity = "nose_arm"
+  />
+  <asset 
+  source = "nosepads_GG0396O"
+  material = "Gucci Clear Acetate Polished"
+  shader = "frame"
+  entity = "nose_pad"
+  />
+  <asset 
+  source = "templeTipsFront_GG0396O"
+  material = "Gucci Blue Acetate Polished"
+  shader = "frame"
+  entity = "frame"
+  />
+  <asset 
+  source = "templeTipsMid_GG0396O"
+  material = "Gucci Red Acetate Polished"
+  shader = "frame"
+  entity = "frame"
+  />
+  <asset 
+  source = "templeTipsRear_GG0396O"
+  material = "Gucci Blue Acetate Polished"
+  shader = "frame"
+  entity = "frmae"
+  />
+  <asset 
+  source = "temples_GG0396O"
+  material = "Gucci Gold Acetate Polished"
+  shader = "hinge"
+  entity = "frame"
+  />
+</data>

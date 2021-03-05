@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.163,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.593,
+  "hex" : "",
+  "luminance_coefficients" : 3,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "Sundae.pvr",
+  "reflection_intensity" : 0.418,
+  "roughness" : 0.253,
+  "surface_alpha" : 0.979,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.369
+}

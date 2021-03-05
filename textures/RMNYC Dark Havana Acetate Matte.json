@@ -1,0 +1,15 @@
+{
+  "path" : "RMNYC Dark Havana.png",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 4.64,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.188,
+  "base_alpha" : 0.202,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.347,
+  "roughness" : 0.247,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 1
+}

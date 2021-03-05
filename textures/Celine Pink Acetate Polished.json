@@ -1,0 +1,15 @@
+{
+  "path" : "",
+  "hex" : "B8998C",
+  "surface_alpha" : 0.62,
+  "diffuse_intensity" : 1,
+  "mask_for_luminance" : 0,
+  "white_point" : 1,
+  "black_point" : 0.001,
+  "base_alpha" : 0.001,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0.068,
+  "metalness" : 0.177,
+  "transparency_mode" : "dualLayer"
+}

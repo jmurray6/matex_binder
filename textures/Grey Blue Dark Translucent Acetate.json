@@ -1,0 +1,11 @@
+{
+    "hex": "424253",
+    "luminance_offset": 0,
+    "mask_for_luminance": 0,
+    "metalness": 0.1,
+    "path": "",
+    "reflection_intensity": 1,
+    "roughness": 0,
+    "surface_alpha": 0.912,
+    "transparency_mode": "dualLayer"
+}

@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.426,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.371,
+  "hex" : "",
+  "luminance_coefficients" : 4,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "Light Brown Black Inverted.png",
+  "reflection_intensity" : 0.978,
+  "roughness" : 0.267,
+  "surface_alpha" : 0.792,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.472
+}

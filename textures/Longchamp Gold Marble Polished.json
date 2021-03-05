@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.407,
+  "black_point" : 0.18,
+  "diffuse_intensity" : 0.933,
+  "hex" : "",
+  "luminance_coefficients" : 1,
+  "mask_for_luminance" : 1,
+  "metalness" : 0.183,
+  "path" : "Longchamp Gold Marble.jpg",
+  "reflection_intensity" : 0.355,
+  "roughness" : 0.031,
+  "surface_alpha" : 0.775,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.443
+}

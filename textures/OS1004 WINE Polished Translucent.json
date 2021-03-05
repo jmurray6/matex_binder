@@ -1,0 +1,10 @@
+{
+    "path": "OS1004-Wine.pvr",
+    "hex": "",
+    "alpha": 1,
+    "metalness": 0,
+    "roughness": 0,
+    "mask_for_luminance": 1,
+    "luminance_offset": 0.05,
+    "transparency_mode": "aOne"
+}

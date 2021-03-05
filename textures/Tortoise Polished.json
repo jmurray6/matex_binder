@@ -1,0 +1,10 @@
+{
+    "path": "Tortoise.pvr",
+    "hex": "",
+    "alpha": 1,
+    "metalness": 0,
+    "roughness": 0.0,
+    "mask_for_luminance": 1,
+    "luminance_offset": 0.0,
+    "transparency_mode": "dualLayer"
+}

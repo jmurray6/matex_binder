@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.401,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 3.516,
+  "hex" : "",
+  "luminance_coefficients" : 1,
+  "mask_for_luminance" : 1,
+  "metalness" : 0.179,
+  "path" : "Tortoise.pvr",
+  "reflection_intensity" : 1.01,
+  "roughness" : 0,
+  "surface_alpha" : 1,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.023
+}

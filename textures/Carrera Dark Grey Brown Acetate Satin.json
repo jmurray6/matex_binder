@@ -1,0 +1,10 @@
+{
+    "path": "",
+    "hex": "331E04",
+    "mask_for_luminance": 0,
+    "metalness": 0,
+    "roughness": 0.236,
+    "reflection_intensity": 0.481,
+    "surface_alpha": 1,
+    "transparency_mode": "aOne"
+}

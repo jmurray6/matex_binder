@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.1,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.379,
+  "hex" : "",
+  "luminance_coefficients" : 4,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "Brown Tortoise Polished.jpg",
+  "reflection_intensity" : 0.97,
+  "roughness" : 0.145,
+  "surface_alpha" : 1,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.15
+}

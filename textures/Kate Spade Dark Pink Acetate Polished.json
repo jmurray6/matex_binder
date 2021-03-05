@@ -1,0 +1,10 @@
+{
+    "path": "",
+    "hex": "783E40",
+    "alpha": 0.555,
+    "metalness": 0.006,
+    "roughness": 0.246,
+    "mask_for_luminance": 0,
+    "luminance_offset": 0.5,
+    "transparency_mode": "dualLayer"
+}

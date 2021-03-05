@@ -1,0 +1,10 @@
+{
+	"path": "",
+	"hex": "BD8D70",
+	"alpha": 1.0,
+	"metalness": 0,
+	"roughness": 0,
+	"transparency_mode": "dualLayer",
+	"mask_for_luminance": 1,
+	"luminance_offset": 0.55
+}

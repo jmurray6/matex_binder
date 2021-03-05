@@ -1,0 +1,15 @@
+{
+  "path" : "Rose Havana.png",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.479,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.099,
+  "base_alpha" : 0.099,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.735,
+  "roughness" : 0.027,
+  "metalness" : 0.005,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

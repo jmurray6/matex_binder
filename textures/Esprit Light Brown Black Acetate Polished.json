@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.471,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.4,
+  "hex" : "",
+  "luminance_coefficients" : 4,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "Light Brown Black.png",
+  "reflection_intensity" : 0.734,
+  "roughness" : 0.144,
+  "surface_alpha" : 0.944,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.044
+}

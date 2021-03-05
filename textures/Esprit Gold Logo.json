@@ -1,0 +1,11 @@
+{
+	"path": "",
+	"hex": "BDA985",
+	"alpha": 1.0,
+	"metalness": 0.0,
+	"roughness": 0.4,
+	"reflection_intensity": 1,
+	"transparency_mode": "aOne",
+	"mask_for_luminance": 0,
+	"luminance_offset": 0.0
+}

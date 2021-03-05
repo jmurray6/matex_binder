@@ -1,0 +1,11 @@
+{
+    "path": "",
+    "hex": "A37A3D",
+    "alpha": 1.0,
+    "metalness": 1,
+    "roughness": 0.332,
+    "mask_for_luminance": 0,
+    "luminance_offset": 0.0,
+    "transparency_mode": "aOne",
+    "reflection_intensity": 1.089
+}

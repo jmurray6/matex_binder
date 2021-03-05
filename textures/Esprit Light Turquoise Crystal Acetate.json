@@ -1,0 +1,11 @@
+{
+	"path": "",
+	"hex": "24393C",
+	"alpha": 0.963,
+	"metalness": 0,
+	"roughness": 0.279,
+	"reflection_intensity": 0.671,
+	"transparencyMode": "aOne",
+	"mask_for_luminance": 0,
+	"luminance_offset": 0.0
+}

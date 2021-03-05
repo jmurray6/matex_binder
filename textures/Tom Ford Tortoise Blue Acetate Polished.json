@@ -1,0 +1,15 @@
+{
+  "path" : "Mazzucchelli1849_016597CTN_grande_V1.png",
+  "hex" : "",
+  "surface_alpha" : 0.997,
+  "diffuse_intensity" : 1,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.015,
+  "base_alpha" : 0.398,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

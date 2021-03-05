@@ -1,0 +1,15 @@
+{
+  "path": "RMNYC Tokyo Tortoise Acetate Polished.pvr",
+  "hex": "",
+  "surface_alpha" : 1.0,
+  "diffuse_intensity" : 0.64,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.063,
+  "base_alpha" : 0.1,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.112,
+  "roughness" : 0,
+  "metalness" : 0.1,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

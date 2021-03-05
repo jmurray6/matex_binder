@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 1,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 2.003,
+  "hex" : "",
+  "luminance_coefficients" : 1,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "Black White Cracked.png",
+  "reflection_intensity" : 0.607,
+  "roughness" : 0.11,
+  "surface_alpha" : 1,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.346
+}

@@ -1,0 +1,15 @@
+{
+  "path" : "RMNYC Blue River Acetate Polished.pvr",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.46,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.093,
+  "base_alpha" : 0.001,
+  "luminance_coefficients" : 6,
+  "reflection_intensity" : 0.93,
+  "roughness" : 0.075,
+  "metalness" : 0.01,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

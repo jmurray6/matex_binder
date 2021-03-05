@@ -1,0 +1,15 @@
+{
+  "path": "620B65.pvr",
+  "hex": "",
+  "surface_alpha" : 0.9,
+  "diffuse_intensity" : 1,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.014,
+  "base_alpha" : 0.031,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0.0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

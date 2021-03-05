@@ -1,0 +1,15 @@
+{
+  "path" : "Black Smoke Gradient Rotated.jpg",
+  "hex" : "",
+  "surface_alpha" : 0.846,
+  "diffuse_intensity" : 0.657,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.019,
+  "base_alpha" : 0.018,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.325,
+  "roughness" : 0.283,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

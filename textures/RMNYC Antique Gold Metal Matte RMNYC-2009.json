@@ -1,0 +1,10 @@
+{
+	"path": "RMNYC Antique Gold Metal Matte RMNYC-2009-2012.pvr",
+	"hex": "",
+	"alpha": 1.0,
+	"metalness": 1,
+	"roughness": 0.37,
+	"transparency_mode": "aOne",
+	"mask_for_luminance": 0,
+	"luminance_offset": 0.0
+}

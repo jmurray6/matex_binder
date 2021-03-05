@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.001,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 1.416,
+  "hex" : "",
+  "luminance_coefficients" : 1,
+  "mask_for_luminance" : 0,
+  "metalness" : 1,
+  "path" : "RMNYC Antique Gold Metal Matte.pvr",
+  "reflection_intensity" : 2.122,
+  "roughness" : 0.37,
+  "surface_alpha" : 1,
+  "transparency_mode" : "aOne",
+  "white_point" : 1
+}

@@ -1,0 +1,15 @@
+{
+  "path": "Z1002-C3-FF1.pvr",
+  "hex": "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 1.70,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.046,
+  "base_alpha" : 0.001,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.757,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "aOne",
+  "black_point" : 0.001
+}

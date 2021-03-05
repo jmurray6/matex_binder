@@ -1,0 +1,15 @@
+{
+  "path" : "Kate Spade Havana Opaque Light Acetate Polished - TALY-CLASSIC HAVANA-SL-TLPDR-5008_2.jpg",
+  "hex" : "",
+  "surface_alpha" : 1.0,
+  "diffuse_intensity" : 1.0,
+  "mask_for_luminance" : 0,
+  "white_point" : 1.0,
+  "base_alpha" : 0.0,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 2.0,
+  "roughness" : 0.0,
+  "metalness" : 0.01,
+  "transparency_mode" : "aOne",
+  "black_point" : 0.001
+}

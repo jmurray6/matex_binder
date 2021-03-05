@@ -1,0 +1,11 @@
+{
+	"path": "M-1034.15.jpg",
+	"hex": "",
+  	"luminance_offset" : 0,
+ 	"mask_for_luminance" : 1,
+	"metalness" : 0.2,
+ 	"reflection_intensity" : 1,
+	"roughness" : 0,
+ 	"surface_alpha" : 0.95,
+ 	"transparencyMode" : "dualLayer"
+}

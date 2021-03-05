@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.293,
+  "black_point" : 0.377,
+  "diffuse_intensity" : 0.425,
+  "hex" : "",
+  "luminance_coefficients" : 1,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "Lacoste Brown Stripe.jpg",
+  "reflection_intensity" : 1.578,
+  "roughness" : 0.227,
+  "surface_alpha" : 1,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.721
+}

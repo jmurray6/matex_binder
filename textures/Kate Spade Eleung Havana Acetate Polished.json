@@ -1,0 +1,15 @@
+{
+  "path" : "ELEUNG CLASSIC HAVANA 5004.jpg",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.347,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.0161,
+  "base_alpha" : 0.653,
+  "luminance_coefficients" : 4,
+  "reflection_intensity" : 1.199,
+  "roughness" : 0.032,
+  "metalness" : 0.01,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.114,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.345,
+  "hex" : "",
+  "luminance_coefficients" : 4,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "Ann Taylor Tortoise Sand Acetate.jpg",
+  "reflection_intensity" : 1.5,
+  "roughness" : 0.118,
+  "surface_alpha" : 1,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.19
+}

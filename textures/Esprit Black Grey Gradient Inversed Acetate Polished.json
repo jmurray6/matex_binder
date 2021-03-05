@@ -1,0 +1,15 @@
+{
+  "path" : "Grey Black Gradient.png",
+  "hex" : "",
+  "surface_alpha" : 0.985,
+  "diffuse_intensity" : 0.854,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.063,
+  "base_alpha" : 0.158,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.813,
+  "roughness" : 0.198,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

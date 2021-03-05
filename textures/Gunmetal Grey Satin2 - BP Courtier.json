@@ -1,0 +1,10 @@
+{
+	"path": "",
+	"hex": "4F4F4F",
+	"alpha": 1.0,
+	"metalness": 1,
+	"roughness": 0.2,
+	"transparencyMode": "aOne",
+	"mask_for_luminance": 0,
+	"luminance_offset": 0.0
+}

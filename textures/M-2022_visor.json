@@ -1,0 +1,11 @@
+{
+    "path": "",
+    "hex": "DADADA",
+    "surface_alpha": 1.0,
+    "reflection_intensity": 1.88,
+    "metalness": 1,
+    "roughness": 0.0,
+    "mask_for_luminance": 0,
+    "luminance_offset": 0.0,
+    "transparency_mode": "aOne"
+}

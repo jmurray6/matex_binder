@@ -1,0 +1,15 @@
+{
+  "path" : "UQ-0207_1024x1024.jpg",
+  "hex" : "",
+  "surface_alpha" : 0.997,
+  "diffuse_intensity" : 1.293,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.07,
+  "base_alpha" : 0.031,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.473,
+  "roughness" : 0.246,
+  "metalness" : 0.01,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

@@ -1,0 +1,15 @@
+{
+  "path": "OS1001-NUDE.pvr",
+  "hex": "",
+  "surface_alpha" : 0.11,
+  "diffuse_intensity" : 0.98,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.8,
+  "base_alpha" : 0.001,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.5,
+  "roughness" : 0,
+  "metalness" : 0.7,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

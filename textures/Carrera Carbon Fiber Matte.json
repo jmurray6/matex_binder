@@ -1,0 +1,10 @@
+{
+	"path": "Carbon.jpg",
+	"hex": "",
+	"alpha": 1.0,
+	"metalness": 1,
+	"roughness": 0.37,
+	"transparency_mode": "aOne",
+	"mask_for_luminance": 1,
+	"luminance_offset": 0.0
+}

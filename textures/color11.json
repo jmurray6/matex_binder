@@ -1,0 +1,11 @@
+{
+  "path": "color11.pvr",
+  "hex": "",
+  "luminance_offset" : 0.0,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "surface_alpha" : 1,
+  "transparencyMode" : "dualLayer"
+}

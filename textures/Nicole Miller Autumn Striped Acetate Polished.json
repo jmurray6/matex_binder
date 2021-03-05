@@ -1,0 +1,15 @@
+{
+  "path" : "NicoleMillerEvergreenTemples.jpg",
+  "hex" : "",
+  "surface_alpha" : 0.896,
+  "diffuse_intensity" : 0.662,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.098,
+  "base_alpha" : 0.455,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.907,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

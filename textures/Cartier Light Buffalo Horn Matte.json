@@ -1,0 +1,10 @@
+{
+    "path": "",
+    "hex": "F8ECDB",
+    "metalness": 0,
+    "roughness": 0.22,
+    "reflection_intensity": 1.065,
+    "surface_alpha": 0.799,
+    "mask_for_luminance": 0,
+    "transparency_mode": "dualLayer"
+}

@@ -1,0 +1,11 @@
+{
+	"path": "Plain Weave Carbon Fiber.jpg",
+	"hex": "",
+	"alpha": 1.0,
+	"diffuse_intensity" : 0.85,
+	"metalness": 0,
+	"roughness": 0.37,
+	"transparency_mode": "aOne",
+	"mask_for_luminance": 1,
+	"luminance_offset": 0.0
+}

@@ -1,0 +1,15 @@
+{
+  "path": "Z5005 C3.pvr",
+  "hex": "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.346,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.02,
+  "base_alpha" : 0.033,
+  "luminance_coefficients" : 3,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0.0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

@@ -1,0 +1,57 @@
+<data>
+  <model source = "Nike - 7924AF" />
+  <asset 
+  source = "frameFront_7924A"
+  material = "Nike Black Acetate Matte.json"
+  shader = "frame"
+  entity = "frame"
+  />
+  <asset 
+  source = "hardware_7924A"
+  material = "Nike Silver Metal Polished.json"
+  shader = "hinge"
+  entity = "frame"
+  />
+  <asset 
+  source = "lensesFront_7924A"
+  material = "tint001"
+  shader = "lens"
+  entity = "lens"
+  />
+  <asset 
+  source = "lensesRear_7924A"
+  material = "tint001"
+  shader = "lens"
+  entity = "lens_rear"
+  />
+  <asset 
+  source = "shoulders_7924A"
+  material = "Nike Black Acetate Matte.json"
+  shader = "frame"
+  entity = "frame"
+  />
+  <asset 
+  source = "templesEmbellishmentDetail_7924A"
+  material = "Nike Black Acetate Matte.json"
+  shader = "frame"
+  entity = "frame"
+  />
+  <asset 
+  source = "templesEmbellishment_7924A"
+  material = "Nike White Metal Polished.json"
+  shader = "frame"
+  entity = "frame"
+  />
+  <asset 
+  source = "templesMainL_7924A"
+  material = "Nike Black Acetate Matte.json"
+  shader = "frame"
+  entity = "frame"
+  />
+  <asset 
+  source = "templesMainR_7924A"
+  material = "Nike Black Acetate Matte.json"
+  shader = "frame"
+  entity = "frame"
+  />
+</data>

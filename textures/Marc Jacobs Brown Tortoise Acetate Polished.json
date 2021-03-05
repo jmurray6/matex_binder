@@ -1,0 +1,15 @@
+{
+  "path" : "LAES-CLASSICAL-HAVANAS-SL-P629-1053_1024x1024.pvr",
+  "hex" : "",
+  "surface_alpha" : 0.97,
+  "diffuse_intensity" : 0.351,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.07,
+  "base_alpha" : 0.031,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.949,
+  "roughness" : 0.05,
+  "metalness" : 0.01,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

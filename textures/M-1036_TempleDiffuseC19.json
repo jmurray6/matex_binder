@@ -1,0 +1,11 @@
+{
+	"path": "M-1036_TempleDiffuseC19.png",
+	"hex": "",
+  	"luminance_offset" : 0,
+ 	"mask_for_luminance" : 0,
+	"metalness" : 0,
+ 	"reflection_intensity" : 1,
+	"roughness" : 0,
+ 	"surface_alpha" : 1,
+ 	"transparencyMode" : "aOne"
+}

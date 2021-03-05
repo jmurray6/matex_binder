@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.13,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 1,
+  "hex" : "",
+  "luminance_coefficients" : 1,
+  "mask_for_luminance" : 0,
+  "metalness" : 0.01,
+  "path" : "Kate Spade Havana Acetate Polished.png",
+  "reflection_intensity" : 1,
+  "roughness" : 0.07,
+  "surface_alpha" : 1,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.053
+}

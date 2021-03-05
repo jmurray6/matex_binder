@@ -1,0 +1,10 @@
+{
+    "path": "M_1035.13_FFCorner_diffuse_512.pvr",
+    "hex": "",
+    "alpha": 0.98,
+    "metalness": 0,
+    "roughness": 0.55,
+    "mask_for_luminance": 1,
+    "luminance_offset": 0.0,
+    "transparency_mode": "aOne"
+}

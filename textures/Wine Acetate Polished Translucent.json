@@ -1,0 +1,10 @@
+{
+    "path": "",
+    "hex": "301A21",
+    "alpha": 1,
+    "metalness": 0,
+    "roughness": 0,
+    "mask_for_luminance": 1,
+    "luminance_offset": 0.2,
+    "transparency_mode": "dualLayer"
+}

@@ -1,0 +1,10 @@
+{
+  "hex" : "365B79",
+  "mask_for_luminance" : 0,
+  "metalness" : 0,
+  "path" : "",
+  "reflection_intensity" : 1.089,
+  "roughness" : 0.175,
+  "surface_alpha" : 0.522,
+  "transparency_mode" : "dualLayer"
+}

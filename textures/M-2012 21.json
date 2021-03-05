@@ -1,0 +1,11 @@
+{
+    "path": "M-2012 21.pvr",
+    "hex": "",
+    "luminance_offset": 0,
+    "mask_for_luminance": 0,
+    "metalness": 0.412,
+    "reflection_intensity": 0.885,
+    "roughness": 0,
+    "surface_alpha": 0.655,
+    "transparency_mode": "dualLayer"
+}

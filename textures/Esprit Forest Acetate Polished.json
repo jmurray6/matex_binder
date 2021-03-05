@@ -1,0 +1,15 @@
+{
+  "path" : "Forest.jpg",
+  "hex" : "",
+  "surface_alpha" : 0.997,
+  "diffuse_intensity" : 1.805,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.418,
+  "base_alpha" : 0.031,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.089,
+  "roughness" : 0.198,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

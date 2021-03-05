@@ -1,0 +1,11 @@
+{
+    "hex": "6B6B6B",
+    "luminance_offset": 0,
+    "mask_for_luminance": 0,
+    "metalness": 1,
+    "path": "",
+    "reflection_intensity": 1,
+    "roughness": 0.251,
+    "surface_alpha": 1,
+    "transparency_mode": "aOne"
+}

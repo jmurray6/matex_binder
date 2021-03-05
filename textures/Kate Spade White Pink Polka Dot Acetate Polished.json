@@ -1,0 +1,15 @@
+{
+  "path" : "White Pink Dot.jpg",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 1,
+  "mask_for_luminance" : 0,
+  "white_point" : 0.071,
+  "base_alpha" : 0.053,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "aOne",
+  "black_point" : 0.001
+}

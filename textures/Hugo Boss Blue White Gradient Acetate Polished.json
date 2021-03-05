@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.402,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.1,
+  "hex" : "",
+  "luminance_coefficients" : 1,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "kay_blu shaded_proposal.jpg",
+  "reflection_intensity" : 1,
+  "roughness" : 0.399,
+  "surface_alpha" : 0.9,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.005
+}

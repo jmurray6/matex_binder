@@ -1,0 +1,11 @@
+{
+	"path": "",
+	"hex": "7E593D",
+	"alpha": 0.408,
+	"metalness": 0,
+	"roughness": 0.0,
+	"transparency_mode": "dualLayer",
+	"mask_for_luminance": 0,
+	"luminance_offset": 0.09,
+    "reflection_intensity": 1.112
+}

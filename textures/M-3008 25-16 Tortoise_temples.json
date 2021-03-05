@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.001,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.4,
+  "hex" : "",
+  "luminance_coefficients" : 1,
+  "mask_for_luminance" : 1,
+  "metalness" : 0.01,
+  "path" : "Tom_Ford-Havana-Acetate_Polished.png",
+  "reflection_intensity" : 1.294,
+  "roughness" : 0.05,
+  "surface_alpha" : 0.997,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.016
+}

@@ -1,0 +1,15 @@
+{
+  "path" : "",
+  "hex" : "181616",
+  "surface_alpha" : 0.305,
+  "diffuse_intensity" : 1,
+  "mask_for_luminance" : 0,
+  "white_point" : 1,
+  "black_point" : 0.001,
+  "base_alpha" : 0.001,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 4.063,
+  "roughness" : 0,
+  "metalness" : 0.1,
+  "transparency_mode" : "aOne"
+}

@@ -1,0 +1,15 @@
+{
+  "path" : "Tortoise Blue Acetate.jpg",
+  "hex" : "",
+  "surface_alpha" : 0.945,
+  "diffuse_intensity" : 1.889,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.019,
+  "base_alpha" : 0.398,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.631,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

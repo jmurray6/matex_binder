@@ -1,0 +1,15 @@
+{
+  "path" : "UD3_0338.png",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 1.9,
+  "mask_for_luminance" : 0,
+  "white_point" : 0.148,
+  "black_point" : 0.001,
+  "base_alpha" : 1,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer"
+}

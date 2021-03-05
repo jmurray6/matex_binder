@@ -1,0 +1,15 @@
+{
+  "path" : "UF-0137_blue.pvr",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.356,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.042,
+  "base_alpha" : 0.609,
+  "luminance_coefficients" : 6,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0.285,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

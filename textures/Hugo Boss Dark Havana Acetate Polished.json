@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.168,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 5,
+  "hex" : "",
+  "luminance_coefficients" : 4,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "Hugo Boss Dark Havana.jpg",
+  "reflection_intensity" : 0.497,
+  "roughness" : 0.18,
+  "surface_alpha" : 0.997,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.09
+}

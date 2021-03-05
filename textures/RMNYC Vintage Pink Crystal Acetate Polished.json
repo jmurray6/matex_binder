@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.001,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 1,
+  "hex" : "877070",
+  "luminance_coefficients" : 0,
+  "mask_for_luminance" : 1,
+  "metalness" : 0.2,
+  "path" : "",
+  "reflection_intensity" : 1.65,
+  "roughness" : 0.02,
+  "surface_alpha" : 0.043,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 1
+}

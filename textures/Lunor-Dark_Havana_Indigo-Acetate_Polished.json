@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.75,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.602,
+  "hex" : "",
+  "luminance_coefficients" : 6,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "LUNOR-Dark_Havana_Indigo-Acetate_Polished.pvr",
+  "reflection_intensity" : 1.041,
+  "roughness" : 0,
+  "surface_alpha" : 1,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.007
+}

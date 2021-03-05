@@ -1,0 +1,15 @@
+{
+  "path" : "Kate Spade Dark Havana.png",
+  "hex" : "",
+  "surface_alpha" : 0.995,
+  "diffuse_intensity" : 0.997,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.059,
+  "black_point" : 0.001,
+  "base_alpha" : 0.965,
+  "luminance_coefficients" : 4,
+  "reflection_intensity" : 2.832,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer"
+}

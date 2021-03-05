@@ -1,0 +1,15 @@
+{
+  "path" : "UFQ-0016_front.jpg",
+  "hex" : "",
+  "surface_alpha" : 0.997,
+  "diffuse_intensity" : 0.716,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.015,
+  "base_alpha" : 0.398,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.852,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

@@ -1,0 +1,10 @@
+{
+	"path": "",
+	"hex": "B5916A",
+	"surface_alpha": 1,
+	"metalness": 0.85,
+	"reflection_intensity": 1.0,
+	"roughness": 0.201,
+	"transparency_mode": "dualLayer",
+	"mask_for_luminance": 0
+}

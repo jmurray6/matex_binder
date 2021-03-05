@@ -1,0 +1,15 @@
+{
+  "path" : "Lunor-Dark_Havana-Acetate_Polished.pvr",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.933,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.028,
+  "black_point" : 0.001,
+  "base_alpha" : 1,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.836,
+  "roughness" : 0.456,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer"
+}

@@ -1,0 +1,12 @@
+{
+    "base_alpha": 0.263,
+    "hex": "",
+    "mask_for_luminance": 1,
+    "metalness": 0,
+    "path": "M_1035.16_FFCorner_diffuse_512.pvr",
+    "reflection_intensity": 0.148,
+    "roughness": 0.55,
+    "surface_alpha": 1,
+    "white_point": 0.011,
+    "transparency_mode": "dualLayer"
+}

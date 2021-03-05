@@ -1,0 +1,13 @@
+{
+  "base_alpha" : 1,
+  "black_point" : 0,
+  "hex" : "93A1CD",
+  "mask_for_luminance" : 0,
+  "metalness" : 1,
+  "path" : "",
+  "reflection_intensity" : 1.057,
+  "roughness" : 0.05,
+  "surface_alpha" : 1,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.001
+}

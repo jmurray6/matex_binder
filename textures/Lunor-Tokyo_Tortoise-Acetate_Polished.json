@@ -1,0 +1,15 @@
+{
+  "path": "UQ-0207_1024x1024.pvr",
+  "hex": "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.6,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.023,
+  "base_alpha" : 0.57,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0.284,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

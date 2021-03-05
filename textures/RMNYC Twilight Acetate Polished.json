@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.577,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 1.15,
+  "hex" : "",
+  "luminance_coefficients" : 1,
+  "mask_for_luminance" : 1,
+  "metalness" : 0.697,
+  "path" : "RMNYC Twilight Acetate Polished.pvr",
+  "reflection_intensity" : 1.262,
+  "roughness" : 0,
+  "surface_alpha" : 0.964,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.028
+}

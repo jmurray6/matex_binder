@@ -1,0 +1,15 @@
+{
+  "path" : "color37.pvr",
+  "hex" : "",
+  "surface_alpha" : 0.9,
+  "diffuse_intensity" : 0.459,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.014,
+  "base_alpha" : 0.414,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

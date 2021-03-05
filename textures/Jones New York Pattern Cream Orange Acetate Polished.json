@@ -1,0 +1,15 @@
+{
+  "path" : "JonesNewYorkPrint_square.jpg",
+  "hex" : "",
+  "surface_alpha" : 0.877,
+  "diffuse_intensity" : 1.475,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.067,
+  "base_alpha" : 0.001,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.868,
+  "roughness" : 0.174,
+  "metalness" : 0,
+  "transparency_mode" : "aOne",
+  "black_point" : 1
+}

@@ -1,0 +1,15 @@
+{
+  "path": "Tortoise Polished - Mazzucchelli 3627_lighter.png",
+  "hex" : "",
+  "surface_alpha" : 0.912,
+  "diffuse_intensity" : 0.538,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.1,
+  "base_alpha" : 0.212,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.183,
+  "roughness" : 0.052,
+  "metalness" : 0.055,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

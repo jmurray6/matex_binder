@@ -1,0 +1,15 @@
+{
+  "path" : "Kate Spade Orange Havana.png",
+  "hex" : "",
+  "surface_alpha" : 0.96,
+  "diffuse_intensity" : 0.79,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.053,
+  "base_alpha" : 0.13,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.27,
+  "roughness" : 0.16,
+  "metalness" : 0.01,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

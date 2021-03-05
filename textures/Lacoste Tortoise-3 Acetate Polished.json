@@ -1,0 +1,15 @@
+{
+  "path" : "ELEUNG-NEW CLASSICS 2-SL-ELBLA-3021.jpg",
+  "hex" : "",
+  "surface_alpha" : 0.997,
+  "diffuse_intensity" : 1.574,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.681,
+  "base_alpha" : 0.031,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.489,
+  "roughness" : 0.413,
+  "metalness" : 0.01,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

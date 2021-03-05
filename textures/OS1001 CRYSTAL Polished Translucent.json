@@ -1,0 +1,15 @@
+{
+  "path": "OS1001-CRYSTAL.pvr",
+  "hex": "",
+  "surface_alpha" : 0.242,
+  "diffuse_intensity" : 1,
+  "mask_for_luminance" : 1,
+  "white_point" : 1,
+  "base_alpha" : 0.001,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0.7,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

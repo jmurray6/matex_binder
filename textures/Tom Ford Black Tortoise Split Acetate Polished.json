@@ -1,0 +1,15 @@
+{
+  "path" : "Black Tortoise Split.jpg",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.686,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.303,
+  "base_alpha" : 0.13,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.915,
+  "roughness" : 0.07,
+  "metalness" : 0.01,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

@@ -1,0 +1,12 @@
+{
+    "base_alpha": 0.019,
+    "path": "M-3013_16_with_alpha.png",
+    "hex": "",
+    "mask_for_luminance": 1,
+    "metalness": 0.1,
+    "reflection_intensity": 0.222,
+    "roughness": 0.098,
+    "surface_alpha": 1,
+    "white_point": 0.131,
+    "transparency_mode": "dualLayer"
+}

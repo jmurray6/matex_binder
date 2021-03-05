@@ -1,0 +1,11 @@
+{
+	"path": "Smoke Acetate Texture 2.pvr",
+	"hex": "",
+  	"luminance_offset" : -0.276,
+ 	"mask_for_luminance" : 1,
+ 	"metalness" : 0,
+ 	"reflection_intensity" : 0.628,
+	"roughness" : 0,
+	"surface_alpha" : 1,
+	"transparency_mode" : "dualLayer"
+}

@@ -1,0 +1,10 @@
+{
+    "path": "",
+    "hex": "A96E6B",
+    "alpha": 1,
+    "metalness": 0.006,
+    "reflection_intensity": 2.248,
+    "roughness": 0.145,
+    "mask_for_luminance": 0,
+    "transparency_mode": "dualLayer"
+}

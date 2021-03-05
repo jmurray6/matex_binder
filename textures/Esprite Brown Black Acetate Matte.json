@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.426,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 1.179,
+  "hex" : "",
+  "luminance_coefficients" : 4,
+  "mask_for_luminance" : 1,
+  "metalness" : 0,
+  "path" : "Tortoise Red Gradient.png",
+  "reflection_intensity" : 0.465,
+  "roughness" : 0,
+  "surface_alpha" : 0.944,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.472
+}

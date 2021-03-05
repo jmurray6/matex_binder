@@ -1,0 +1,15 @@
+{
+  "path" : "Bordeaux Havana.png",
+  "hex" : "",
+  "surface_alpha" : 0.973,
+  "diffuse_intensity" : 1.381,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.461,
+  "base_alpha" : 0.398,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.262,
+  "roughness" : 0.093,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

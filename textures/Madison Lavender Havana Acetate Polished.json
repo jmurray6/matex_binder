@@ -1,0 +1,15 @@
+{
+  "path" : "UQ2-0202_1024px_tiled.png",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.6,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.035,
+  "base_alpha" : 0.224,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

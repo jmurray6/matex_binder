@@ -1,0 +1,15 @@
+{
+  "path": "mood indigo.png",
+  "hex": "",
+  "surface_alpha" : 0.959,
+  "diffuse_intensity" : 0.696,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.031,
+  "base_alpha" : 0.466,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.373,
+  "roughness" : 0.69,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

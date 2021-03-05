@@ -1,0 +1,15 @@
+{
+  "path": "Tortoise Polished - Mazzucchelli 3627.pvr",
+  "hex" : "",
+  "surface_alpha" : 0.98,
+  "diffuse_intensity" : 0.9,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.09,
+  "base_alpha" : 0.35,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1.0,
+  "roughness" : 0.0,
+  "metalness" : 0.06,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

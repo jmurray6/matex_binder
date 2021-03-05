@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.001,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.538,
+  "hex" : "",
+  "luminance_coefficients" : 0,
+  "mask_for_luminance" : 1,
+  "metalness" : 0.215,
+  "path" : "Desaturated Honey.png",
+  "reflection_intensity" : 0.876,
+  "roughness" : 0.315,
+  "surface_alpha" : 0.907,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.091
+}

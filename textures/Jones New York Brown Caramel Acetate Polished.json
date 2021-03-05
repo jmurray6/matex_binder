@@ -1,0 +1,9 @@
+{
+    "path": "",
+    "hex": "160000",
+    "metalness": 0,
+    "roughness": 0.086,
+    "surface_alpha": 0.991,
+    "mask_for_luminance": 0,
+    "transparency_mode": "dualLayer"
+}

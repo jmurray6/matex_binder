@@ -1,0 +1,15 @@
+{
+  "path" : "Takiron SD 2099_1024px_tiled.pvr",
+  "hex" : "",
+  "surface_alpha" : 1,
+  "diffuse_intensity" : 0.282,
+  "mask_for_luminance" : 0,
+  "white_point" : 0.015,
+  "base_alpha" : 0.13,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0.28,
+  "metalness" : 0,
+  "transparency_mode" : "aOne",
+  "black_point" : 0.001
+}

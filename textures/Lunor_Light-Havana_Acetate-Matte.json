@@ -1,0 +1,15 @@
+{
+  "path" : "Mazzucchelli 631256 matte.pvr",
+  "hex" : "",
+  "surface_alpha" : 0.96,
+  "diffuse_intensity" : 1.15,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.069,
+  "base_alpha" : 0.755,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.92,
+  "roughness" : 0.3,
+  "metalness" : 0.04,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

@@ -1,0 +1,15 @@
+{
+  "path" : "Orange Havana.png",
+  "hex" : "",
+  "surface_alpha" : 0.997,
+  "diffuse_intensity" : 0.361,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.022,
+  "base_alpha" : 0.031,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 0.655,
+  "roughness" : 0.198,
+  "metalness" : 0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}

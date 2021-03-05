@@ -1,0 +1,15 @@
+{
+  "base_alpha" : 0.001,
+  "black_point" : 0.001,
+  "diffuse_intensity" : 0.218,
+  "hex" : "",
+  "luminance_coefficients" : 6,
+  "mask_for_luminance" : 1,
+  "metalness" : 0.091,
+  "path" : "Teal Havana Polished.jpg",
+  "reflection_intensity" : 1,
+  "roughness" : 0.061,
+  "surface_alpha" : 0.945,
+  "transparency_mode" : "dualLayer",
+  "white_point" : 0.033
+}

@@ -1,0 +1,15 @@
+{
+  "path" : "Mazzucchelli LF1262_1024px_3.jpg",
+  "hex" : "",
+  "surface_alpha" : 0.95,
+  "diffuse_intensity" : 0.275,
+  "mask_for_luminance" : 1,
+  "white_point" : 0.021,
+  "base_alpha" : 0.034,
+  "luminance_coefficients" : 1,
+  "reflection_intensity" : 1,
+  "roughness" : 0.0,
+  "metalness" : 0.0,
+  "transparency_mode" : "dualLayer",
+  "black_point" : 0.001
+}
